@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ShoesMarketDbLibrary/ShoesMarketDbLibrary.csproj" />
+  <Project Path="WebApi/WebApi.csproj" Id="9d70e813-8041-4ed1-b8a2-f2822b992fcd" />
+  <Project Path="WebApp/WebApp.csproj" Id="2711a002-61fc-4bcc-8173-0d8af4308a36" />
+  <Project Path="WpfApp/WpfApp.csproj" Id="d4944b3b-0838-460b-becd-df95348eb6b4" />
+</Solution>

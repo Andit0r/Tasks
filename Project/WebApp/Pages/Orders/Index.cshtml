@@ -1,0 +1,40 @@
+﻿@page
+@model WebApp.Pages.Orders.IndexModel
+
+@{
+    ViewData["Title"] = "Заказы";
+}
+
+<h1>Заказы</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Номер заказа</th>
+            <th>Состав</th>
+            <th>Дата заказа</th>
+            <th>Итоговая стоимость</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Orders) {
+        <tr>
+            <td>
+                @item.OrderId
+            </td>
+            <td>
+                @string.Join(", ", item.ShoeOrders.Select(so => $"{so.Shoe.Brand.Name} {so.Shoe.Description} (x{so.Quantity})"))
+            </td>
+            <td>
+                @item.OrderDate.ToString("dd.MM.yyyy")
+            </td>
+            <td>
+                @{
+                    var total = item.ShoeOrders.Sum(so => (so.Shoe.Price - so.Shoe.Price * so.Shoe.Discount / 100) * so.Quantity);
+                }
+                @total.ToString() ₽
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

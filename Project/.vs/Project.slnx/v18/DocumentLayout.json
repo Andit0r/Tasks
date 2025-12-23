@@ -1,0 +1,1081 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\Tasks\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|f:\\projects\\tasks\\project\\webapi\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|f:\\projects\\tasks\\project\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|f:\\projects\\tasks\\project\\webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|f:\\projects\\tasks\\project\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|f:\\projects\\tasks\\project\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\discountconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\discountconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\editshoewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\editshoewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\editshoewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\editshoewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\finalpriceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\finalpriceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|f:\\projects\\tasks\\project\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\contexts\\shoesmarketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\contexts\\shoesmarketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\Tasks\\Project\\WpfApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|f:\\projects\\tasks\\project\\wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4944B3B-0838-460B-BECD-DF95348EB6B4}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Windows\\Temp\\.vsdbgsrc\\ba0541164f379192eb23d0d5a0cde96659c5f181f381664f91a7120406e6d139\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|f:\\projects\\tasks\\project\\webapp\\pages\\shoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2711A002-61FC-4BCC-8173-0D8AF4308A36}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|f:\\projects\\tasks\\project\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D70E813-8041-4ED1-B8A2-F2822B992FCD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\models\\shoeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\models\\shoeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|f:\\projects\\tasks\\project\\shoesmarketdblibrary\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4692218-91B0-1B86-3FEB-7526B32D51A0}|ShoesMarketDbLibrary\\ShoesMarketDbLibrary.csproj|solutionrelative:shoesmarketdblibrary\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\Project\\WinFormsApp\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projects\\Project\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Index.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Index.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:02:55.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:43:59.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:23:20.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T23:05:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T20:35:55.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoesController.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApi\\Controllers\\ShoesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ShoesController.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApi\\Controllers\\ShoesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ShoesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:33:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Services\\AuthService.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Services\\AuthService.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:06:11.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T20:04:08.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Edit.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Edit.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T20:03:57.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Edit.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T20:03:57.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Index.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Index.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwHoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T20:03:57.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:50:59.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Login.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:50:39.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Login.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Login.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:50:38.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T18:00:44.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiscountConverter.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\DiscountConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp\\DiscountConverter.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\DiscountConverter.cs",
+              "RelativeToolTip": "WpfApp\\DiscountConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:43:57.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditShoeWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\EditShoeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\EditShoeWindow.xaml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\EditShoeWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\EditShoeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:34:33.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditShoeWindow.xaml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\EditShoeWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\EditShoeWindow.xaml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\EditShoeWindow.xaml",
+              "RelativeToolTip": "WpfApp\\EditShoeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T17:08:23.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\LoginWindow.xaml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\LoginWindow.xaml",
+              "RelativeToolTip": "WpfApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T19:36:15.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\LoginWindow.xaml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:13:21.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-22T17:27:56.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FinalPriceConverter.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\FinalPriceConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp\\FinalPriceConverter.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\FinalPriceConverter.cs",
+              "RelativeToolTip": "WpfApp\\FinalPriceConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:33:46.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T18:02:42.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\App.xaml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:00:00.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\App.xaml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\App.xaml",
+              "RelativeToolTip": "WpfApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-23T14:26:22.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Status.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Models\\Status.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Status.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:02:15.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Models\\User.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\User.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:59:28.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-21T18:03:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Models\\Vendor.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Vendor.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:15:08.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T16:39:12.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Index.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T20:03:57.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp\\AssemblyInfo.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:15:31.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Models\\Brand.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Brand.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T01:59:21.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShoesMarketContext.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Contexts\\ShoesMarketContext.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Contexts\\ShoesMarketContext.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Contexts\\ShoesMarketContext.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Contexts\\ShoesMarketContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T18:17:23.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Create.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Create.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T20:03:57.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAALACAAAAAAAAAAAmwMICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-23T14:03:33.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-23T13:29:01.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T16:37:16.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "WpfApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs",
+              "RelativeToolTip": "WpfApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAIEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:35:24.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WpfApp.csproj",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WpfApp\\WpfApp.csproj",
+              "RelativeDocumentMoniker": "WpfApp\\WpfApp.csproj",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WpfApp\\WpfApp.csproj",
+              "RelativeToolTip": "WpfApp\\WpfApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-22T16:48:24.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Windows\\Temp\\.vsdbgsrc\\ba0541164f379192eb23d0d5a0cde96659c5f181f381664f91a7120406e6d139\\XamlReader.cs",
+              "ToolTip": "C:\\Windows\\Temp\\.vsdbgsrc\\ba0541164f379192eb23d0d5a0cde96659c5f181f381664f91a7120406e6d139\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAANoBAAAAAAAAAAAqwOwBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:04:31.151Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\Projects\\Project\\WinFormsApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\WinFormsApp\\Form1.Designer.cs",
+              "ToolTip": "F:\\Projects\\Project\\WinFormsApp\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\Project\\WinFormsApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:49:55.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\Projects\\Project\\WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\WinFormsApp\\Form1.cs",
+              "ToolTip": "F:\\Projects\\Project\\WinFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\Project\\WinFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:46:06.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T16:37:23.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Delete.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:02:55.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Error.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T16:41:28.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Details.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Details.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:02:54.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Create.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:02:54.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-22T14:59:27.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Index.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:02:55.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Edit.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:02:54.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Edit.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:02:54.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Details.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:02:55.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Delete.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:02:55.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Orders\\Create.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Orders\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:02:54.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Details.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T20:03:57.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Details.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Details.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T20:03:57.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Delete.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Delete.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T20:03:57.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Delete.cshtml.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T20:03:57.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shoes\\Create.cshtml",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApp\\Pages\\Shoes\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shoes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T20:03:56.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Models\\Order.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Order.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:00:52.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Role.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Models\\Role.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Role.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:00:06.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T16:23:51.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ShoeOrder.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\ShoeOrder.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Models\\ShoeOrder.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\ShoeOrder.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Models\\ShoeOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T18:17:51.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Shoe.cs",
+              "RelativeDocumentMoniker": "ShoesMarketDbLibrary\\Models\\Shoe.cs",
+              "ToolTip": "F:\\Projects\\Tasks\\Project\\ShoesMarketDbLibrary\\Models\\Shoe.cs",
+              "RelativeToolTip": "ShoesMarketDbLibrary\\Models\\Shoe.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wCUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T18:22:21.572Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1257,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1257,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
